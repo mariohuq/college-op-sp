@@ -1,5 +1,11 @@
 {
-	"plugins": ["latex-codecogs"],
+	"plugins": [
+		"latex-codecogs"
+		// ,"insight-snippet"
+		// ,"mathjax-commonhtml"
+		// ,"python-visualizer"
+		,"copy-code"
+	],
 	"pluginsConfig": {
         "latex-codecogs":{
             "type": "svg"
