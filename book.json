@@ -1,8 +1,8 @@
 {
-	"plugins": ["mathjax"],
+	"plugins": ["latex-codecogs"],
 	"pluginsConfig": {
-        "mathjax":{
-            "forceSVG": false
+        "latex-codecogs":{
+            "type": "svg"
         }
     }
 }
