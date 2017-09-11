@@ -1,9 +1,7 @@
 {
 	"plugins": [
 		"latex-codecogs"
-		// ,"insight-snippet"
-		// ,"mathjax-commonhtml"
-		// ,"python-visualizer"
+
 		,"copy-code"
 	],
 	"pluginsConfig": {
