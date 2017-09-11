@@ -1,0 +1,3 @@
+$ cd /mnt/d/progp/...
+$ gitbook init .
+$ gitbook serve
