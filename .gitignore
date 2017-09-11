@@ -1,0 +1,12 @@
+# Файл проекта Sublime
+*.sublime-project
+*.sublime-workspace
+
+# Cкомпилированная книга
+_book/*
+
+# 
+*.py
+
+# Скрипты и т.д.
+do.txt
